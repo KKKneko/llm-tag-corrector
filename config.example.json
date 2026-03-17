@@ -1,0 +1,17 @@
+{
+    "caption_api": {
+        "api_key": "YOUR_API_KEY",
+        "base_url": "https://sd.rnglg2.top:30000/v1",
+        "model_name": "google/gemini-3-flash-preview"
+    },
+    "summary_api": {
+        "api_key": "YOUR_API_KEY",
+        "base_url": "https://api.bltcy.ai/v1",
+        "model_name": "deepseek-v3.2"
+    },
+    "danbooru": {
+        "username": "YOUR_USERNAME",
+        "api_key": "YOUR_API_KEY",
+        "proxy": "http://127.0.0.1:7897"
+    }
+}

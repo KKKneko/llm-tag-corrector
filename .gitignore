@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .claude/
 test_*.py
+config.json
+build_danbooru_db.py
+batch_summarize_wiki.py
